@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(white, rgba(172,248,255,0.42));
+  background-image: linear-gradient(white, rgba(135,144,125,0.71));
 }
 
 .u-section-1 .u-sheet-1 {
@@ -357,7 +357,7 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 617px;
+  min-height: 645px;
 }
 
 .u-section-2 .u-text-1 {
@@ -367,7 +367,7 @@
 .u-section-2 .u-gallery-1 {
   height: 559px;
   width: 988px;
-  margin: -75px auto 29px;
+  margin: -75px auto 57px;
 }
 
 .u-section-2 .u-carousel-indicators-1 {
