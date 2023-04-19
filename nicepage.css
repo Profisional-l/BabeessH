@@ -42301,53 +42301,49 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 225px;
-}
-
-.u-footer .u-image-1 {
-  width: 179px;
-  height: 112px;
-  margin: 56px 0 0 auto;
-}
-
-.u-footer .u-btn-1 {
-  background-image: none;
-  border-style: solid;
-  margin: -121px auto 0 13px;
-  padding: 0;
+  min-height: 173px;
 }
 
 .u-footer .u-text-1 {
-  margin: 25px 835px 0 0;
+  margin: 74px 876px 0 46px;
+}
+
+.u-footer .u-image-1 {
+  width: 116px;
+  height: 69px;
+  margin: -26px 140px 0 auto;
 }
 
 .u-footer .u-text-2 {
-  margin: 18px 851px 56px 0;
+  margin: -42px 805px 48px 46px;
+}
+
+.u-footer .u-icon-2 {
+  vertical-align: 0px;
+  font-size: 0.875em;
 }
 @media (max-width: 1199px) {
-  .u-footer .u-image-1 {
-    width: 179px;
-    height: 112px;
-  }
-
-  .u-footer .u-btn-1 {
-    margin-top: -121px;
-    margin-left: 0;
-  }
-
   .u-footer .u-text-1 {
     width: auto;
-    margin-right: 635px;
+    margin-left: 0;
+    margin-right: 722px;
+  }
+
+  .u-footer .u-image-1 {
+    width: 116px;
+    height: 68px;
   }
 
   .u-footer .u-text-2 {
     width: auto;
+    margin-top: -69px;
+    margin-left: 0;
     margin-right: 651px;
   }
 }
 @media (max-width: 991px) {
   .u-footer .u-text-1 {
-    margin-right: 415px;
+    margin-right: 502px;
   }
 
   .u-footer .u-text-2 {
@@ -42356,31 +42352,32 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 767px) {
   .u-footer .u-text-1 {
-    margin-right: 235px;
+    margin-right: 322px;
   }
 
   .u-footer .u-text-2 {
+    margin-top: 20px;
     margin-right: 251px;
   }
 }
 @media (max-width: 575px) {
-  .u-footer .u-image-1 {
-    margin-top: 0;
-  }
-
-  .u-footer .u-btn-1 {
-    margin-top: -61px;
+  .u-footer .u-sheet-1 {
+    min-height: 174px;
   }
 
   .u-footer .u-text-1 {
-    margin-top: 34px;
-    margin-right: 35px;
+    margin-top: 85px;
+    margin-right: 97px;
+    margin-left: 26px;
+  }
+
+  .u-footer .u-image-1 {
+    margin-top: -111px;
+    margin-right: auto;
   }
 
   .u-footer .u-text-2 {
-    margin-top: 7px;
-    margin-left: 26px;
-    margin-right: 26px;
+    margin: 43px 26px 38px;
   }
 }
 

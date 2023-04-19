@@ -55,7 +55,7 @@
 
 .u-section-1 .u-text-3 {
   font-size: 1.5rem;
-  font-weight: 700;
+  font-weight: normal;
   margin: 21px 15px 0;
 }
 
@@ -343,6 +343,10 @@
 
   .u-section-1 .u-layout-cell-1 {
     min-height: 100px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-weight: 600;
   }
 
   .u-section-1 .u-list-1 {
