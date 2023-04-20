@@ -3,14 +3,14 @@
 }
 
 .u-section-1 .u-image-1 {
-  width: 570px;
-  height: 356px;
-  margin: 13px auto 0;
+  width: 514px;
+  height: 321px;
+  margin: 34px auto 0;
 }
 
 .u-section-1 .u-text-1 {
   font-weight: 300;
-  margin: 0 0 1px;
+  margin: 14px 0 1px;
 }
 
 @media (max-width: 767px) {
@@ -19,7 +19,6 @@
   }
 
   .u-section-1 .u-image-1 {
-    width: 540px;
     height: 338px;
   }
 }
@@ -44,34 +43,10 @@
   min-height: 540px;
 }
 
-.u-section-2 .u-text-1 {
-  margin: 82px auto 0 22px;
-}
-
 .u-section-2 .u-image-1 {
-  width: 570px;
-  height: 381px;
-  margin: -39px 0 0 auto;
-}
-
-.u-section-2 .u-text-2 {
-  font-weight: 300;
-  margin: -302px 702px 60px 0;
-}
-
-@media (max-width: 1199px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 473px;
-  }
-
-  .u-section-2 .u-image-1 {
-    width: 470px;
-    height: 314px;
-  }
-
-  .u-section-2 .u-text-2 {
-    margin-right: 502px;
-  }
+  width: 874px;
+  height: 486px;
+  margin: 27px auto;
 }
 
 @media (max-width: 991px) {
@@ -80,14 +55,8 @@
   }
 
   .u-section-2 .u-image-1 {
-    width: 360px;
-    height: 241px;
-    margin-top: 375px;
-  }
-
-  .u-section-2 .u-text-2 {
-    margin-top: -597px;
-    margin-right: 282px;
+    width: 720px;
+    height: 400px;
   }
 }
 
@@ -96,18 +65,9 @@
     min-height: 380px;
   }
 
-  .u-section-2 .u-text-1 {
-    margin-top: 448px;
-  }
-
   .u-section-2 .u-image-1 {
-    width: 270px;
-    height: 181px;
-  }
-
-  .u-section-2 .u-text-2 {
-    margin-top: -537px;
-    margin-right: 102px;
+    width: 540px;
+    height: 300px;
   }
 }
 
@@ -116,23 +76,9 @@
     min-height: 817px;
   }
 
-  .u-section-2 .u-text-1 {
-    width: auto;
-    margin-top: 310px;
-    margin-left: 23px;
-  }
-
   .u-section-2 .u-image-1 {
     width: 332px;
     height: 240px;
-    margin-top: -316px;
-    margin-right: auto;
-  }
-
-  .u-section-2 .u-text-2 {
-    margin-top: 115px;
-    margin-right: 0;
-    margin-bottom: 50px;
   }
 } .u-section-3 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/fgfg.jpg");
