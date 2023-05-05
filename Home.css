@@ -311,7 +311,7 @@
 .u-section-4 .u-text-2 {
   font-size: 1.25rem;
   line-height: 1.6;
-  margin: 28px 36px 0 16px;
+  margin: 22px 48px 0 5px;
 }
 
 .u-section-4 .u-btn-1 {
@@ -320,7 +320,7 @@
   font-size: 0.875rem;
   letter-spacing: 1px;
   border-style: none;
-  margin: 50px auto 0 64px;
+  margin: 56px auto 0 64px;
   padding: 10px 43px 10px 41px;
 }
 
@@ -359,7 +359,7 @@
 
 .u-section-4 .u-text-6 {
   font-size: 1.25rem;
-  margin: 16px 50px 0 30px;
+  margin: 16px 52px 0 28px;
 }
 
 @media (max-width: 1199px) {
@@ -637,7 +637,7 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
   font-weight: normal;
-  margin: 22px 300px 0 39px;
+  margin: 28px 300px 0 39px;
 }
 
 .u-section-5 .u-layout-cell-2 {
@@ -665,7 +665,7 @@
   letter-spacing: 2px;
   font-weight: 400;
   font-size: 1.875rem;
-  margin: 17px 72px 0 auto;
+  margin: 41px 75px 0 auto;
 }
 
 .u-section-5 .u-text-4 {
@@ -675,13 +675,13 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
   font-weight: normal;
-  margin: 46px 81px 0 293px;
+  margin: 22px 84px 0 290px;
 }
 
 .u-section-5 .u-image-3 {
   width: 282px;
   height: 282px;
-  background-image: url("images/image15.png");
+  background-image: url("images/image21.png");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: -400px;
   --animation-custom_in-translate_y: 0px;
@@ -695,7 +695,7 @@
   letter-spacing: 2px;
   font-weight: 400;
   font-size: 1.875rem;
-  margin: 16px auto 0;
+  margin: 40px auto 0;
 }
 
 .u-section-5 .u-text-6 {
@@ -706,7 +706,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  margin: 46px auto 60px;
+  margin: 22px auto 60px;
 }
 
 @media (max-width: 1199px) {
@@ -732,18 +732,8 @@
   }
 
   .u-section-5 .u-text-4 {
-    margin-right: 31px;
-    margin-left: 243px;
-  }
-
-  .u-section-5 .u-image-3 {
-    width: 294px;
-    height: 294px;
-    margin-top: -652px;
-  }
-
-  .u-section-5 .u-text-5 {
-    margin-top: 17px;
+    margin-right: 34px;
+    margin-left: 240px;
   }
 }
 
@@ -810,17 +800,6 @@
     padding-right: 0;
   }
 
-  .u-section-5 .u-image-1 {
-    width: 248px;
-    height: 248px;
-    margin-top: 5px;
-  }
-
-  .u-section-5 .u-text-2 {
-    width: auto;
-    margin: 23px 330px -1px 10px;
-  }
-
   .u-section-5 .u-layout-cell-2 {
     min-height: 741px;
   }
@@ -848,23 +827,6 @@
     margin-right: 55px;
     margin-left: 270px;
   }
-
-  .u-section-5 .u-image-3 {
-    width: 181px;
-    height: 181px;
-    margin-top: -483px;
-    margin-left: calc(((100% - 540px) / 2));
-  }
-
-  .u-section-5 .u-text-5 {
-    width: auto;
-    margin-left: calc(((100% - 540px) / 2) + 29px);
-  }
-
-  .u-section-5 .u-text-6 {
-    width: auto;
-    margin: 22px calc(((100% - 540px) / 2) + 326px) 35px calc(((100% - 540px) / 2) + 6px);
-  }
 }
 
 @media (max-width: 575px) {
@@ -882,22 +844,10 @@
 
   .u-section-5 .u-image-1 {
     background-position: 50% 0%;
-    width: 213px;
-    height: 213px;
-    margin-top: -29px;
-    margin-left: auto;
-  }
-
-  .u-section-5 .u-text-1 {
-    width: auto;
-    margin-top: 33px;
-    margin-left: 62px;
   }
 
   .u-section-5 .u-text-2 {
-    margin-top: 19px;
-    margin-left: 6px;
-    margin-right: 6px;
+    margin-right: 0;
   }
 
   .u-section-5 .u-layout-cell-2 {
@@ -921,21 +871,6 @@
     margin-top: 33px;
     margin-right: 60px;
     margin-left: 65px;
-  }
-
-  .u-section-5 .u-image-3 {
-    margin-top: -1133px;
-    margin-left: auto;
-  }
-
-  .u-section-5 .u-text-5 {
-    margin-top: 54px;
-    margin-left: auto;
-  }
-
-  .u-section-5 .u-text-6 {
-    width: 208px;
-    margin: 12px auto 60px;
   }
 } .u-section-6 {
   background-image: none;
@@ -961,6 +896,12 @@
 
 .u-section-6 .u-carousel-item-1 {
   margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-6 .u-back-image-1 {
+  object-position: 50% 64.38%;
 }
 
 .u-section-6 .u-over-slide-1 {
@@ -970,10 +911,12 @@
 
 .u-section-6 .u-carousel-item-2 {
   margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .u-section-6 .u-back-image-2 {
-  object-position: 50% 64.38%;
+  object-position: 64.32% 50%;
 }
 
 .u-section-6 .u-over-slide-2 {
@@ -983,10 +926,8 @@
 
 .u-section-6 .u-carousel-item-3 {
   margin-right: 0;
-}
-
-.u-section-6 .u-back-image-3 {
-  object-position: 64.32% 50%;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .u-section-6 .u-over-slide-3 {
@@ -1011,7 +952,7 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-6 .u-back-image-2 {
+  .u-section-6 .u-back-image-1 {
     object-position: 14.79% 64.38%;
   }
 } .u-section-7 {
